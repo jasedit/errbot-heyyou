@@ -1,0 +1,9 @@
+[Core]
+Name = HeyYou
+Module = heyyou
+
+[Documentation]
+Description = Plugin for responding to a flag with a random username
+
+[Python]
+Version = 3+
